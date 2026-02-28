@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const EscrewSystemApp());
+  runApp(const HandcraftedEcommerceApp());
 }
 
-class EscrewSystemApp extends StatelessWidget {
-  const EscrewSystemApp({super.key});
-
-  // This widget is the root of your application.
+class HandcraftedEcommerceApp extends StatelessWidget {
+  const HandcraftedEcommerceApp({super.key});
   @override
   Widget build(BuildContext context) {
     return MaterialApp();

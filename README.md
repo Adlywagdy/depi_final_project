@@ -1,4 +1,4 @@
-# escrew_system_app
+# HandcraftedEcommerceApp
 
 A new Flutter project.
 
